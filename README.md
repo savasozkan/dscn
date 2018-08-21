@@ -6,14 +6,24 @@
 
 ## References
 
-Please cite the following paper:
+Please cite the following papers:
 
 [1] Savas Ozkan and Gozde Bozdagi Akar, Deep Spectral Convolution Network for HyperSpectral Unmixing, IEEE International Conference on Image Processing, 2018:
+
+[2] Savas Ozkan and Gozde Bozdagi Akar, Improved Deep Spectral Convolution Network For Hyperspectral Unmixing With Multinomial Mixture Kernel and Endmember Uncertainty, arXiv:1808.01104, 2018:
 ```
 @article{ozkan18dscn,
   title={Deep Spectral Convolution Network for HyperSpectral Unmixing},
   author={Ozkan, Savas and Akar, Gozde Bozdagi},
   journal={IEEE International Conference on Image Processing},
   year={2018},
+}
+```
+```
+@article{ozkan2018improved,
+  title={Improved Deep Spectral Convolution Network For Hyperspectral Unmixing With Multinomial Mixture Kernel and Endmember Uncertainty},
+  author={Ozkan, Savas and Akar, Gozde Bozdagi},
+  journal={arXiv preprint arXiv:1808.01104},
+  year={2018}
 }
 ```
