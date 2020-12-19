@@ -26,4 +26,11 @@ Please cite the following papers:
   journal={arXiv preprint arXiv:1808.01104},
   year={2018}
 }
+
+@article{ozkan2020su,
+  title={Spectral Unmixing With Multinomial Mixture Kernel and Wasserstein Generative Adversarial Loss},
+  author={Ozkan, Savas and Akar, Gozde Bozdagi},
+  journal={AI for Earth Sciences Workshop at NeurIPS 2020},
+  year={2020}
+}
 ```
